@@ -8,7 +8,7 @@ B.Tech CSE (AI) student passionate about **Machine Learning, Deep Learning, and 
 - **Collaborating on:** AI/ML, GenAI, and open-source projects
 - **Looking for help with:** Production-ready RAG systems and ML/GenAI project architecture
 - **Ask me about:** Python, Machine Learning, Deep Learning, RAG, Git and GitHub
-- **Fun fact:** I prefer turning what I learn into projects rather than keeping it in my notes
+
 
 ---
 

@@ -1,4 +1,4 @@
-# Hi, I'm Samyamoy Das
+# Hi, I'm Samyamoy Das.
 
 B.Tech CSE (AI) student passionate about **Machine Learning, Deep Learning, and Generative AI**. I enjoy building practical AI applications and learning how modern AI systems work.
 

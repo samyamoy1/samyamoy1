@@ -7,12 +7,12 @@ B.Tech CSE (AI) student passionate about **Machine Learning, Deep Learning, and 
 - **Learning:** LangChain, LangGraph, Transformers, AI agents
 - **Collaborating on:** AI/ML, GenAI, and open-source projects
 - **Looking for help with:** Production-ready RAG systems and ML/GenAI project architecture
-- **Ask me about:** Python, Machine Learning, Deep Learning, RAG, Git and GitHub
+- **Ask me about:** Python, Machine Learning, Deep Learning, RAG, Git and GitHub.
 
 
 ---
 
-## Socials
+## Socials.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samyamoy-das)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Samyamoydas)
